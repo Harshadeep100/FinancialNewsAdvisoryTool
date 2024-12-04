@@ -39,3 +39,9 @@
 
 # Project Structure
 1. main.py: This is the main Streamlit application script.
+
+2. requirements.txt: A list of Python packages that is required for the project.
+
+3. faiss_store_openai.pkl: FAISS index is stored in the pickle file.
+
+4. .env: Configuration file for storing OpenAI/HuggingFace API key.
