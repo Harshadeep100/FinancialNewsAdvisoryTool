@@ -1,4 +1,4 @@
-# CryptoCool-Financial-Advisory-Tool
+# FinancialNews-Advisory-Tool
 
 # Features:  
 1. Import URLs or upload text documents that include URLs to retrieve article content. 
